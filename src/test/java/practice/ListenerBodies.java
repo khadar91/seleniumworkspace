@@ -12,7 +12,7 @@ public class ListenerBodies implements WebDriverEventListener
 
 	@Override
 	public void beforeAlertAccept(WebDriver driver) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubs
 		
 	}
 
